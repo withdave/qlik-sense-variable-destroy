@@ -37,7 +37,7 @@ Browsers
 
 ## Known issues
 * You will not be able to delete variables from published apps (unless you've been modifying security rules)
-* Both script and user created bookmarks will be deleted, but these will only be for those visible in the front end (i.e. not environmental variables)
+* Both script and user created variables will be deleted, but these will only be for those visible in the front end (i.e. not environmental variables)
 
 ## Notes
 * The bookmarklet was generated using an online tool: https://mrcoles.com/bookmarklet/
