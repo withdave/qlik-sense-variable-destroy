@@ -11,6 +11,9 @@ This bookmarklet is designed to be saved into a bookmark on your browser bar, an
 
 All code is run client side, so no configuration or uploads to the Qlik Sense environment are required.
 
+![GIF Demonstrating use of bookmarklet](qsvd_demo.gif)*Demo of bookmarklet in a Qlik Sense app with over 1000 variables*
+
+
 
 ## Use
 1. Create a bookmark and paste the following into the address section:
