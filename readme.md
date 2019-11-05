@@ -1,5 +1,5 @@
 # qsvd
-Qlik Sense Variable Destroy (Bookmarklet to get Qlik Sense object IDs).
+Qlik Sense Variable Destroy (Bookmarklet to delete Qlik Sense variables).
 
 Either create a bookmark yourself below, or go to https://withdave.github.io/qsvd/ and drag the button to your bookmarks bar.
 
