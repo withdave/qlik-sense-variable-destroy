@@ -3,7 +3,7 @@ Qlik Sense Variable Destroy (Bookmarklet to get Qlik Sense object IDs).
 
 Either create a bookmark yourself below, or go to https://withdave.github.io/qsvd/ and drag the button to your bookmarks bar.
 
-If you're looking for something more powerful, with the ability to selectively remove variables, have a look at https://github.com/BaptisteDurand/QlikSense-VariablesDestructor.
+If you're looking for something more powerful, that runs on the Qlik Sense server and has the ability to selectively remove variables, have a look at https://github.com/BaptisteDurand/QlikSense-VariablesDestructor.
 
 
 ## Purpose
