@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This bookmarklet will not work with the newer variable window introduced in 2023 versions of Qlik Sense.
+
 # qsvd
 Qlik Sense Variable Destroy (Bookmarklet to delete Qlik Sense variables).
 
